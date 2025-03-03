@@ -1,10 +1,10 @@
-Password Generator
+**Password Generator**
 
-Overview
+*Overview*
 
 This project is a Password Generator that allows users to create strong, random passwords and check their strength. It features a user-friendly HTML, CSS, and JavaScript frontend for easy interaction.
 
-Features
+*Features*
 
 ✅ Generate random passwords based on user preferences
 ✅ Select password criteria: Uppercase, Lowercase, Numbers, Symbols
@@ -13,7 +13,7 @@ Features
 ✅ Responsive and visually appealing UI
 ✅ Display password security tips
 
-Technologies Used
+*Technologies Used*
 
 HTML (Structure)
 
@@ -21,14 +21,14 @@ CSS (Styling)
 
 JavaScript (Functionality)
 
-Setup Instructions
+*Setup Instructions*
 Open the project folder.
 
 Open index.html in a browser.
 
 Customize settings and generate secure passwords!
 
-File Structure
+*File Structure*
 
 password-generator/
 │── index.html      # Main HTML file
