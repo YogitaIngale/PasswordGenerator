@@ -1,7 +1,5 @@
 **Password Generator**
 
-*Overview*
-
 This project is a Password Generator that allows users to create strong, random passwords and check their strength. It features a user-friendly HTML, CSS, and JavaScript frontend for easy interaction.
 ![img_alt](https://github.com/YogitaIngale/PasswordGenerator/blob/main/Screenshot%20(126).png?raw=true)
 ![img_alt1](https://github.com/YogitaIngale/PasswordGenerator/blob/main/Screenshot%20(127).png?raw=true)
